@@ -1,0 +1,12 @@
+record
+decimal(10) acct_id;
+decimal(12) cust_id;
+decimal(16) cust_txn_num;
+decimal(2) sor_id;
+string(10) cust_name;
+string(20) address;
+string(2) state_cd;
+date('MMDDYYYY')(8) txn_dt;
+decimal(16) card_num;
+string(50) txn_remarks;
+end;
