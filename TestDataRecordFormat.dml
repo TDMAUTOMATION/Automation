@@ -1,0 +1,11 @@
+record
+decimal(16) acct_id;
+decimal(11) acct_num;
+decimal(5) sor_id;
+date("DDMMYYYY") acct_opening_date;
+decimal(10.2) acct_bal;
+string(30) first_name;
+string(30) address
+string(2) state_cd;
+string(30) remarks;
+end
