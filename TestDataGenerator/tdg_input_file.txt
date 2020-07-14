@@ -1,0 +1,5 @@
+dml_file_path - C:/Users/home/TestDataGenerator/ 
+dml_file_name - sample_abinitio.dml 
+target_file_path - C:/Users/home/TestDataGenerator/ 
+target_file_name - target_data_file.csv 
+records_count - 10
